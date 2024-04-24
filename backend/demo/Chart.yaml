@@ -1,0 +1,10 @@
+#############
+apiVersion: v2
+name: demo
+version: 1.0.0
+#############
+
+dependencies:
+  - name: demo-app
+    version: 1.0.1
+    repository: https://rogerwoodford.github.io/demo-app-chart
