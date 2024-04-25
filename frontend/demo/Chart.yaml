@@ -6,5 +6,5 @@ version: 1.0.0
 
 dependencies:
   - name: demo-app
-    version: 1.0.2
+    version: 1.0.3
     repository: https://rogerwoodford.github.io/demo-app-chart
