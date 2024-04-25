@@ -1,3 +1,4 @@
 demo-app:
   port: 9501
+  message: hey!!!
 
